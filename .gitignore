@@ -1,0 +1,35 @@
+# 二进制与样本：一律不提交
+*.apk
+*.aab
+*.dex
+*.so
+*.jar
+*.bin
+*.dmp
+
+# 分析产物
+sources/
+out/
+build/
+
+# 抓包与镜像
+*.pcap
+*.pcapng
+*.har
+captures/
+memdump/
+
+# 账号与凭据（本地文件，永不提交）
+*.xml
+!LICENSE
+*.json
+!*.example.json
+.env
+.env.*
+
+# 杂项
+*.log
+*.tmp
+~$*
+Thumbs.db
+desktop.ini

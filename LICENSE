@@ -1,0 +1,56 @@
+# 许可协议 / License
+
+本仓库的**文档内容**（`README.md`、`REPORT.md`、`LEGAL.md` 及后续 `docs/` 下的所有文字、表格、图）
+
+采用 **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+（CC BY-NC-SA 4.0）** 许可协议发布。
+
+你可以自由地：
+
+- **共享** — 在任何媒介或格式中复制、发行本作品
+- **演绎** — 修改、转换或以本作品为基础进行创作
+
+但须遵守以下条款：
+
+- **署名 (BY)** — 必须给出适当的署名，并提供指向本许可协议的链接，同时说明是否作出了修改
+- **非商业性使用 (NC)** — 不得将本作品用于商业目的
+- **相同方式共享 (SA)** — 若你修改、转换或以本作品为基础进行创作，必须采用与本协议相同的许可协议分发你的贡献
+
+许可协议全文：<https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-hans>
+人类可读摘要：<https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans>
+
+---
+
+若后续加入**代码**（脚本、工具），该部分代码采用 **MIT License**：
+
+```
+MIT License
+
+Copyright (c) 2026 <your-name>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+---
+
+## 第三方材料说明
+
+本仓库**不包含**以下内容，也不主张其任何权利：目标应用的安装包、原生库、反编译产物、
+抓包数据、第三方加固/SDK 的二进制或其文档。文中出现的类名、方法名、字段名、错误码等
+仅为说明问题所需的事实性引用。
